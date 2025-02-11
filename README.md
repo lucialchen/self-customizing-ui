@@ -1,6 +1,6 @@
 # Self Customizing UI
 
-This is a self-customizing UI project that dynamically updates styles based on user prompts. It uses OpenAI's API to generate CSS styles.
+This is a self-customizing UI project that dynamically re-styles itself based on user prompts. It uses OpenAI's API to generate CSS styles.
 
 ## Features
 - Dynamically update themes and styles based on user input.
