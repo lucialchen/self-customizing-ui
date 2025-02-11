@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Generating UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header with Reset Button -->
+        <div class="header">
+            <h1>Self Customizing UI</h1>
+            <button class="reset-button" onclick="resetStyles()">+ New Chat</button>
+        </div>
+
+        <!-- Chatbox -->
+        <div class="chat-box">
+            <!-- Example Prompts -->
+            <div class="example-prompts">
+                <button class="example-prompt" onclick="applyExamplePrompt('Make it glow-in-the-dark')">Make it glow-in-the-dark</button>
+                <button class="example-prompt" onclick="applyExamplePrompt('Make it superhero themed')">Make it superhero themed</button>
+                <button class="example-prompt" onclick="applyExamplePrompt('Make it night mode')">Make it night mode</button>
+            </div>
+
+            <!-- Welcome Message -->
+            <div class="chat-content">
+                <p>Welcome! Use the prompts above or type your own below to re-style me ✨</p>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <textarea id="userPrompt" class="chat-input" placeholder="Ask me to change the theme, colors, or style..."></textarea>
+                <button class="send-button" onclick="applyCustomization()">&#8593;</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
