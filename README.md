@@ -11,27 +11,37 @@ This is a self-customizing UI project that dynamically re-styles itself based on
 
 ### Backend Setup
 1. Navigate to the `backend` folder:
+```
 cd backend
-text
+```
 
-2. Create a virtual environment:
+2. Create a .env file in the backend folder and add your OpenAI API key:
+```
+OPENAI_API_KEY=your-api-key-here
+```
+
+3. Create a virtual environment:
+```
 python3 -m venv ai-ui-env
 source ai-ui-env/bin/activate # For MacOS/Linux
 ai-ui-env\Scripts\activate # For Windows
-text
+```
 
-3. Install dependencies:
+4. Install dependencies:
+```
 pip install -r requirements.txt
-text
+```
 
-4. Run the Flask server:
+5. Run the Flask server:
+```
 python app.py
-text
+```
 
 ### Frontend Setup
 1. Navigate to the `frontend` folder:
+```
 cd frontend
-text
+```
 
 2. Open `index.html` in your browser.
 
