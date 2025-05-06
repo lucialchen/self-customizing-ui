@@ -1,4 +1,4 @@
-# Self Customizing UI
+# ReFrontend
 
 This is a self-customizing UI project that dynamically re-styles itself based on user prompts. It uses OpenAI's API to generate CSS styles.
 
@@ -6,6 +6,14 @@ This is a self-customizing UI project that dynamically re-styles itself based on
 - Dynamically update themes and styles based on user input.
 - Predefined prompts for quick theme changes.
 - "New Chat" button to reset the UI to default settings.
+
+## Demo Video
+
+<iframe width="560" height="315"
+  src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/cz9-ecKmrwk)"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 
 ## Setup Instructions
 
