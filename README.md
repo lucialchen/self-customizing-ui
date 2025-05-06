@@ -10,7 +10,7 @@ This is a self-customizing UI project that dynamically re-styles itself based on
 ## Demo Video
 
 <iframe width="560" height="315"
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/cz9-ecKmrwk)"
+  src="https://youtu.be/cz9-ecKmrwk"
   frameborder="0" allowfullscreen>
 </iframe>
 
