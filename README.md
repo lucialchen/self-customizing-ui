@@ -1,6 +1,6 @@
 # Self Customizing UI
 
-This AI-powered UI transforms in real-time based on what you tell it, making interface customization as simple as typing a request. Leveraging OpenAI's API, users can effortlessly customize colors, layouts, and styling elements through simple text prompts or predefined theme options. Just describe what you want-whether using the quick-access theme buttons or typing custom requests—and watch your interface magically reshape itself to match your vision!
+This AI-powered UI transforms in real-time based on what you tell it, making interface customization as simple as typing a request. Leveraging OpenAI's API, users can effortlessly customize colors, layouts, and styling elements through simple text prompts or predefined theme options. Just describe what you want—whether using the quick-access theme buttons or typing custom requests—and watch your interface magically reshape itself to match your vision!
 
 ## Features
 - Dynamically update themes and styles based on user input.
