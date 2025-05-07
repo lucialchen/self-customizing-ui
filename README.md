@@ -10,7 +10,7 @@ This is a self-customizing UI project that dynamically re-styles itself based on
 ## Demo
 
 ![UI Demo](assets/testvid1.gif)
-![UI Demo](assets/testvid2.gif)
+![UI Demo](assets/testvid3.gif)
 
 
 ## Setup Instructions
