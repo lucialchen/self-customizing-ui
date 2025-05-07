@@ -7,12 +7,10 @@ This is a self-customizing UI project that dynamically re-styles itself based on
 - Predefined prompts for quick theme changes.
 - "New Chat" button to reset the UI to default settings.
 
-## Demo Video
+## Demo
 
-<iframe width="560" height="315"
-  src="https://youtu.be/cz9-ecKmrwk"
-  frameborder="0" allowfullscreen>
-</iframe>
+![UI Demo](assets/testvid1.gif)
+![UI Demo](assets/testvid2.gif)
 
 
 ## Setup Instructions
